@@ -1,10 +1,10 @@
 ## Sample code: Generating REST APIs from data classes in Python
 
 Sample code supporting the `Generating REST APIs from data classes in Python` blog post.
-EndPoint : http://127.0.0.1:8080/create-person
-POST
-Payload : {"person": {"name":"Joe", "age": 32}}
-Response : {"person_id": 1234}
+EndPoint : http://127.0.0.1:8080/create-person <br>
+POST <br>
+Payload : {"person": {"name":"Joe", "age": 32}} <br>
+Response : {"person_id": 1234} <br>
 
 ## License
 
